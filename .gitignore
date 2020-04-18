@@ -12,9 +12,6 @@
 *.zip
 *.tar.gz
 *.rar
-/taget
-
-
-
 # Project exclude paths
 /target/
+/.idea/
